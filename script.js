@@ -2,7 +2,7 @@
 var now = moment();   
 
 // Make a variable for current date 
-var currentDate = moment().format("MMM Do YY");   
+var currentDate = moment().format("MMM Do YYYY");   
 
 // Setting the date 
     $("#currentDay").text("Today's Date: " + currentDate);
