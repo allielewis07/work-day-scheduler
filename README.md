@@ -22,4 +22,4 @@ THEN the text for that event is saved in local storage
 WHEN user refreshes the page
 THEN the saved events exist.
 ```
-
+screen shots of project here : https://github.com/allielewis07/work-day-scheduler/issues/1#issue-694152185
